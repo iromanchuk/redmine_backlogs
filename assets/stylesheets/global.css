@@ -70,8 +70,10 @@ body.loading #refresh{
 #main{
   display:block;
   height:100%;
-  width:100%;
   margin: 0; /*yes, we do!*/
+  width: 98.5%;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 #content {
